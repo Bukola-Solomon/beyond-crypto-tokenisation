@@ -2,7 +2,7 @@ beyond-crypto-tokenization/
 │
 ├── README.md
 ├── manuscript/
-│   ├── 00-foreword.md
+│   ├── 00-Table of Content.md
 │   ├── 01-introduction.md
 │   ├── 02-tokenization-fundamentals.md
 │   ├── 03-business-use-cases.md
